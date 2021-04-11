@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R-Lakshmi-shinde
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... SQL
-- 💞️ I’m looking to collaborate on ... project
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... lakshmishinde1@gmail.com
 
 <!---
